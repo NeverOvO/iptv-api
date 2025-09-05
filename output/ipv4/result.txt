@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-05 18:18:20,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
+2025-09-06 06:16:27,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
 
 📺央视频道,#genre#
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
@@ -28,7 +28,6 @@ CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
 
 ☘️浙江频道,#genre#
 NBTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8
