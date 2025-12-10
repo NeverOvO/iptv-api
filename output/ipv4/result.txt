@@ -1,25 +1,24 @@
 🕘️更新时间,#genre#
-2025-12-10 06:19:43,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-10 18:22:04,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
-CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
 CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
+CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
 CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-9,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
 CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
 CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
-CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-11,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11&tai=cctv11&VideoName=cctv11&channelID=cctv11
+CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
-CCTV-12,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
+CCTV-12,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
 CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
 CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
@@ -37,7 +36,7 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 
 ☘️浙江频道,#genre#
-浙江新闻,http://101.66.198.43:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.198.176:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 NBTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8
 NBTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8
 NBTV-3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235612/1/index.m3u8
